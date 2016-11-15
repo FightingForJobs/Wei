@@ -3,6 +3,7 @@ class Solution(object):
         """
         :type path: str
         :rtype: str
+        
         """
         result = []
         pathList = path.split("/")
